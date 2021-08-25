@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-shortcode-uva
+module github.com/mattoxb/wowchemy-shortcode-uva
 
 go 1.15
